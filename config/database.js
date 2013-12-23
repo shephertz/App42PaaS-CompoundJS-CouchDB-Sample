@@ -9,6 +9,6 @@ module.exports = {
     },
     production: {
         driver: 'nano',
-        url: 'http://localhost:5984'
+        url: 'http://<User name>:<Password>@<VM IP>:<VM PORT>'
     }
 };
